@@ -1,13 +1,11 @@
 # Build-Upons
 Build Upons v1
 - About:  
-Build Upons is a construction block set that is designed to be compatible with most popular construction block sets like LEGO bricks.
-
-The set allows for the seamless integration of LED light into an existing construction set, or Build Upons can be used to create 
-
-truly unique creations with only the three simple block provided. The Power brick, the Bridge brick, and the LED brick. 
-
-This repo provides the 3D solid models and their respective 2D drawings. 
+Build Upons is a construction block set that is designed to be compatible with most popular 
+construction block sets like LEGO bricks. The set allows for the seamless integration of LED 
+light into an existing construction set, or Build Upons can be used to create truly unique 
+creations with only the three simple block provided. The Power brick, the Bridge brick, and 
+the LED brick. This repo provides the 3D solid models and their respective 2D drawings. 
 
 - Processes:
 There are two different processes used in the creation of Build Upons
