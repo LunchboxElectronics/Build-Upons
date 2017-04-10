@@ -19,10 +19,10 @@ There are two different processes used in the creation of Build Upons
 	Each brick is then molded in plastic to create the compatible form for existing construction sets. In the case of Build Upons
 	the bricks use a process called insert molding to encapsulate the die cast parts into the plastic.
 	The repo contains the 3D model and 2D drawings to create the detail for the core and cavity of the insert mold tool.
-	An insert mold tool has been created with a single cavity for the Bower brick, Bridge brick, and LED brick.
+	An insert mold tool has been created with a single cavity for the Power brick, Bridge brick, and LED brick.
 
 Licensing: 
-Blinky Buildings is an open source hardware product and follows the open source hardware definition: www.oshwa.org/definition
-The license on the source files for Blinky Buildings is CC-BY-SA
+Build Upons is an open source hardware product and follows the open source hardware definition: www.oshwa.org/definition
+The license on the source files for Build Upons is CC-BY-SA
 
 Distributed as-is; no warranty given. Not suitable for people who might eat electronics. 
